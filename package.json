@@ -1,0 +1,28 @@
+{
+  "name": "reduxresources",
+  "version": "1.0.0",
+  "description": "npm library for simplifying Redux with declarative state management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iancam/reduxResources.git"
+  },
+  "keywords": [
+    "redux",
+    "state",
+    "management",
+    "react"
+  ],
+  "author": "Ian Campbell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iancam/reduxResources/issues"
+  },
+  "homepage": "https://github.com/Iancam/reduxResources#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
