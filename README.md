@@ -16,7 +16,7 @@ It also created an opportunity: since these reducers and actions shared the same
 
 ```js
 import { combineReducers } from "redux";
-import { fromResources, listOfReducersToReducer } from "./reduxResources";
+import { fromResources, listOfReducersToReducer } from "reduxResources";
 //import reducers here
 
 const exampleStateMap = {
